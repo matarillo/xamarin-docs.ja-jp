@@ -14,6 +14,10 @@ Xamarin ドキュメントへの投稿に関心をお寄せいただきありが
 
 - [共同作成者ライセンス条項](LICENSE)
 
+## <a name="mt-engine-updates-on-international-docs"></a>Docs国際版の機械翻訳（MT）エンジンの更新
+
+MTコンテンツの品質を改善するために、より良い翻訳を提供できると期待されるニューラルエンジンに移行中です。 MTコンテンツへの投稿は _一時的に_ 無効になります。[詳細はこちらをお読みください](MTEngineUpdate.md)。
+
 ## <a name="process-for-contributing"></a>投稿のプロセス
 
 ### <a name="small-changes--edits"></a>小規模な変更と編集
